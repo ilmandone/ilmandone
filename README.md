@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilmandone
 - 👀 I’m interested in front-end development, webgl, ux-ui 
-- 🌱 I’m currently learning angular and others stuffs
+- 🌱 I’m currently working with angular and others stuffs
 - 📫 How to reach me ... no you can't
 
 <!---
